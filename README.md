@@ -1,2 +1,3 @@
 # hello-world
-Attention please dont divert
+hi frnds 
+I am cool to be in this new world
